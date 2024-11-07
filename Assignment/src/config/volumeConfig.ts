@@ -1,0 +1,11 @@
+export const DISTRIBUTION_AMOUNT = 0.01;
+export const DISTRIBUTION_NUM = 100
+export const TOKEN_MINT = "9hjZ8UTNrNWt3YUTHVpvzdQjNbp64NbKSDsbLqKR6BZc"
+export const ADDITIONAL_FEE = 0.005;
+export const BUY_AMOUNT = 0.01 ;
+export const BUY_UPPER_AMOUNT = 0.002;
+export const BUY_LOWER_AMOUNT = 0.001;
+export const BUY_INTERVAL_MAX = 4000;
+export const BUY_INTERVAL_MIN = 2000;
+export const IS_RANDOM = true // true if you want to choose random sol amount for volume 
+export const TOTAL_TRANSACTION = 20 ; // number of total buy & sell you want to do
